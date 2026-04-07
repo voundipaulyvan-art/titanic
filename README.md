@@ -1,5 +1,5 @@
 # titanic
-> **Cours** : Data Management — EPSI 2026  
+> **Domaine** : Data Management  
 > **Objectif** : Exploration, nettoyage et visualisation du dataset Titanic avec Python & Pandas
 
 ---
